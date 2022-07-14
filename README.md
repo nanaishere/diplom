@@ -8,7 +8,7 @@
 ## Начало работы
 
 1. Запустить Idea.
-2. В терминале Idea указать команду "clone https://github.com/l0197d/Diplom.git".
+2. В терминале Idea указать команду "clone https://github.com/nanaishere/diplom.git".
 3. Дождаться окончания закрузки и индексации файлов.
 4. Выполнить шаги описанные в разделе "Установка и запуск."
 
@@ -41,6 +41,6 @@
 ОС: Windows 10 х64.
 версия Java: 11.0.9.1
 
-## [Раздел с документацией](https://github.com/l0197d/Diplom/tree/master/docs)
-## [Отчет по тестированию](https://github.com/l0197d/Diplom/tree/master/docs/Report.md)
-## [Отчет по итогам автоматизации](https://github.com/l0197d/Diplom/tree/master/docs/Summary.md)
+## [Раздел с документацией](https://github.com/nanaishere/diplom/tree/master/docs)
+## [Отчет по тестированию](https://github.com/nanaishere/diplom/tree/master/docs/Report.md)
+## [Отчет по итогам автоматизации](https://github.com/nanaishere/diplom/tree/master/docs/Summary.md)
